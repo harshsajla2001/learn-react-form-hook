@@ -1,4 +1,4 @@
-export type Name = {
+type Name = {
     first: string
     last: string
 }
